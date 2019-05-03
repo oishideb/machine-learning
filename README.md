@@ -18,7 +18,7 @@ Training my ML model with historic datasets.
 
 Forecasting the future behaviours by estimating the relationship between variables.
 
-Identifing and predicting rare or unusual data points.
+Identifying and predicting rare or unusual data points.
 
 Separating similar data points into intuitive groups.
 
