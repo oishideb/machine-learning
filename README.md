@@ -2,16 +2,16 @@
 This folder contains the following files:
 
 
-# A. Preprocessing 
+### A. Preprocessing 
 1. Preprocessing data
 2. Calculating missing data
 
-# B. Selecting Algorithms
+### B. Selecting Algorithms
 Machine Learning Algorithms
 1. Predicting categories using Classification Algorithms
 2. Predicting values using Regression Algorithms
 
-# C. Creating and Evaluating ML Models
+### C. Creating and Evaluating ML Models
 The Steps are as follows:
 
 Training my ML model with historic datasets.
